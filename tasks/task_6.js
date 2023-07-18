@@ -24,7 +24,7 @@ console.log("Goodbye!");
 //: Mismatched opening and closing brackets
 
 //Given the following code snippet, identify and fix the syntax error:
-const numbers = [1, 2, 3, 4, 5];
+const numbers = [1, 2, 3, 4, 5,6];
 console.log(numbers[2]);
 
 //Task: Incorrect function definition
